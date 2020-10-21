@@ -3,7 +3,7 @@
 #+OPTIONS: ^:nil
 
 [[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
-[[https://github.com/cryptokasten-data][file:https://img.shields.io/badge/cryptokasten-data-brightgreen.svg]]
+[[https://github.com/cryptokasten-data][file:https://img.shields.io/badge/data-brightgreen.svg]]
 
 Example cryptokasten doc.
 
