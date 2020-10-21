@@ -1,0 +1,19 @@
+#+TITLE: Cryptokasten doc example
+#+TAGS: cryptokasten, data
+#+OPTIONS: ^:nil
+
+[[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+[[https://github.com/cryptokasten-data][file:https://img.shields.io/badge/cryptokasten-data-brightgreen]]
+
+Example cryptokasten doc.
+
+** Preparation method
+
+Manual.
+
+** Data
+
+#+BEGIN_SRC yaml :tangle example-doc.yml
+title: "Cryptokasten example"
+id: "cryptokasten-example"
+#+END_SRC
